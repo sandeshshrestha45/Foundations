@@ -1,2 +1,2 @@
 # Basics
-Foundation on Numpy, Scipy, Simpy, MatplotLib and others for STEM.
+Foundation on NumPy, SciPy, SymPy, MatplotLib and others for STEM.
